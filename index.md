@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+```
+买股票就是买公司。
+```
+
+## 消息
+
+- [Bloomberg](https://www.bloomberg.com/)
+- [FinancialTimes](https://www.ft.com/) [中文](https://www.ftchinese.com/)
+- [SeekingAlpha](https://seekingalpha.com/)
+- [TheWallStreetJournal](https://www.wsj.com/) [中文](https://cn.wsj.com/)
+- [WallStreetBets](https://www.reddit.com/r/wallstreetbets/)
+- [财联社](https://www.cls.cn/)
+- [金十数据](https://www.jin10.com/)
+- [美港电讯](https://www.ushknews.com/)
+- [华尔街见闻](https://wallstreetcn.com/)
+
+## 工具
+
+- [APEWisdom](https://apewisdom.io/)
+- [Barchart](https://www.barchart.com/)
+- [CMEFedWatchTool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
+- [FearAndGreedIndex](https://edition.cnn.com/markets/fear-and-greed)
+- [FinViz](https://finviz.com/)
+- [IVolatility](https://www.ivolatility.com/landing/index.html)
+- [OptionStrat](https://optionstrat.com/)
+- [SqueezeMetrics](https://squeezemetrics.com/)
+- [SwaggyStocks](https://swaggystocks.com/)
+- [TradingView](https://www.tradingview.com/)
+- [Tradytics](https://tradytics.com/)
+- [UnusualWhales](https://unusualwhales.com/)
+- [ARK追踪神器](https://ark.alien-tomato.com/)
+
+## 视频
+
+- [EdgeStockTrading](https://www.youtube.com/@EdgeStockTrading)
+- [InvestAnswers](https://www.youtube.com/@InvestAnswers)
+- [MasterTechnicalAnalysis](https://www.youtube.com/@mastertechnicalanalysismta7734)
+- [OptionsMillionaire](https://www.youtube.com/@OptionsMillionaire)
+- [PowerUpGammas](https://www.youtube.com/@PowerUpGammas)
+- [TheMarketMemo](https://www.youtube.com/@TheMarketMemo)
+
+## 教程
+
+- [富途牛牛投资课程](https://www.futunn.com/learn)
+- [富途牛牛词条百科](https://www.futunn.com/learn/wiki)
+- [富途牛牛技术面分析](https://support.futunn.com/categories/768)
