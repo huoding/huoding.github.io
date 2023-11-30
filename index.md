@@ -9,9 +9,9 @@ layout: default
 ## 消息
 
 - [Bloomberg](https://www.bloomberg.com/)
-- [FinancialTimes](https://www.ft.com/) [[中文]](https://www.ftchinese.com/)
+- [FinancialTimes](https://www.ft.com/) [中文](https://www.ftchinese.com/)
 - [SeekingAlpha](https://seekingalpha.com/)
-- [TheWallStreetJournal](https://www.wsj.com/) [[中文]](https://cn.wsj.com/)
+- [TheWallStreetJournal](https://www.wsj.com/) [中文](https://cn.wsj.com/)
 - [WallStreetBets](https://www.reddit.com/r/wallstreetbets/)
 - [财联社](https://www.cls.cn/)
 - [金十数据](https://www.jin10.com/)
