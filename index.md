@@ -25,7 +25,7 @@ layout: default
 - [CMEFedWatchTool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 - [FearAndGreedIndex](https://edition.cnn.com/markets/fear-and-greed)
 - [FinViz](https://finviz.com/)
-- [IVolatility](https://www.ivolatility.com/landing/index.html)
+- [OptionCharts](https://optioncharts.io/)
 - [OptionStrat](https://optionstrat.com/)
 - [SqueezeMetrics](https://squeezemetrics.com/)
 - [SwaggyStocks](https://swaggystocks.com/)
