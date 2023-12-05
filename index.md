@@ -20,7 +20,6 @@ layout: default
 
 ## 工具
 
-- [AlphaQuery](https://www.alphaquery.com/)
 - [APEWisdom](https://apewisdom.io/)
 - [Barchart](https://www.barchart.com/)
 - [CMEFedWatchTool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
