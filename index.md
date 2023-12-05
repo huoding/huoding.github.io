@@ -10,6 +10,7 @@ layout: default
 
 - [Bloomberg](https://www.bloomberg.com/)
 - [FinancialTimes](https://www.ft.com/) [中文](https://www.ftchinese.com/)
+- [Reuters](https://www.reuters.com/)
 - [SeekingAlpha](https://seekingalpha.com/)
 - [TheWallStreetJournal](https://www.wsj.com/) [中文](https://cn.wsj.com/)
 - [WallStreetBets](https://www.reddit.com/r/wallstreetbets/)
