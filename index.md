@@ -27,7 +27,6 @@ layout: default
 - [FinViz](https://finviz.com/)
 - [OptionCharts](https://optioncharts.io/)
 - [OptionStrat](https://optionstrat.com/)
-- [SqueezeMetrics](https://squeezemetrics.com/)
 - [SwaggyStocks](https://swaggystocks.com/)
 - [TradingView](https://www.tradingview.com/)
 - [Tradytics](https://tradytics.com/)
