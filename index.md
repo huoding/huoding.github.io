@@ -42,6 +42,7 @@ layout: default
 - [MasterTechnicalAnalysis](https://www.youtube.com/@mastertechnicalanalysismta7734)
 - [OptionsMillionaire](https://www.youtube.com/@OptionsMillionaire)
 - [PowerUpGammas](https://www.youtube.com/@PowerUpGammas)
+- [TraderlinkLLC](https://www.youtube.com/@TraderlinkLLC)
 - [TraderMcStockster](https://www.youtube.com/@TraderMcStockster)
 - [TheMarketMemo](https://www.youtube.com/@TheMarketMemo)
 
