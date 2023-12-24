@@ -37,6 +37,7 @@ layout: default
 ## 视频
 
 - [EdgeStockTrading](https://www.youtube.com/@EdgeStockTrading)
+- [FattyTrades](https://www.youtube.com/@FattyTrades)
 - [GeeksOfFinance](https://www.youtube.com/@geeksoffinance)
 - [InvestAnswers](https://www.youtube.com/@InvestAnswers)
 - [MasterTechnicalAnalysis](https://www.youtube.com/@mastertechnicalanalysismta7734)
