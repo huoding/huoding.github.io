@@ -3,7 +3,7 @@ layout: default
 ---
 
 ```
-买股票就是买公司。
+I would rather be vaguely right, than precisely wrong.
 ```
 
 ## 消息
