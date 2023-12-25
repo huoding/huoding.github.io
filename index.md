@@ -2,10 +2,6 @@
 layout: default
 ---
 
-```
-I would rather be vaguely right, than precisely wrong.
-```
-
 ## 消息
 
 - [Bloomberg](https://www.bloomberg.com/)
