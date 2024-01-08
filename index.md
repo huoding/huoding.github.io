@@ -22,7 +22,7 @@ layout: default
 - [CMEFedWatchTool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 - [FearAndGreedIndex](https://edition.cnn.com/markets/fear-and-greed)
 - [FinViz](https://finviz.com/)
-- [OptionCharts](https://optioncharts.io/)
+- [OptionsExpirationCalendar](https://www.optionseducation.org/referencelibrary/expiration-calendar)
 - [OptionStrat](https://optionstrat.com/)
 - [SqueezeMetrics](https://squeezemetrics.com/)
 - [TradingView](https://www.tradingview.com/)
