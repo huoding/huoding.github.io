@@ -27,6 +27,7 @@ layout: default
 - [SqueezeMetrics](https://squeezemetrics.com/)
 - [TradingView](https://www.tradingview.com/)
 - [Tradytics](https://tradytics.com/)
+- [U.S.EconomicCalendar](https://www.marketwatch.com/economy-politics/calendar)
 - [UnusualWhales](https://unusualwhales.com/)
 - [ARK追踪神器](https://ark.alien-tomato.com/)
 
