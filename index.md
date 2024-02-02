@@ -5,6 +5,7 @@ layout: default
 ## 消息
 
 - [Bloomberg](https://www.bloomberg.com/)
+- [EconomicCalendar](https://www.investing.com/economic-calendar/) [中文](https://cn.investing.com/economic-calendar/)
 - [FinancialTimes](https://www.ft.com/) [中文](https://www.ftchinese.com/)
 - [Reuters](https://www.reuters.com/)
 - [SeekingAlpha](https://seekingalpha.com/)
@@ -20,7 +21,6 @@ layout: default
 - [APEWisdom](https://apewisdom.io/)
 - [Barchart](https://www.barchart.com/)
 - [CMEFedWatchTool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
-- [EconomicCalendar](https://www.investing.com/economic-calendar/) [中文](https://cn.investing.com/economic-calendar/)
 - [FearAndGreedIndex](https://edition.cnn.com/markets/fear-and-greed)
 - [FinViz](https://finviz.com/)
 - [FirstPrinciplesTrader](https://firstprinciplestrader.com/)
