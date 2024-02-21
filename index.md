@@ -25,6 +25,7 @@ layout: default
 - [FinViz](https://finviz.com/)
 - [FirstPrinciplesTrader](https://firstprinciplestrader.com/)
 - [OptionStrat](https://optionstrat.com/)
+- [SPXGamma](https://www.spxgamma.com/)
 - [SqueezeMetrics](https://squeezemetrics.com/)
 - [TradingView](https://www.tradingview.com/)
 - [Tradytics](https://tradytics.com/)
