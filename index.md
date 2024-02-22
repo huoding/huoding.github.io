@@ -43,13 +43,14 @@ layout: default
 - [OptionsMillionaire](https://www.youtube.com/@OptionsMillionaire)
 - [PowerUpGammas](https://www.youtube.com/@PowerUpGammas)
 - [SpotGamma](https://www.youtube.com/@spotgamma)
-- [TastyLiveShow](https://www.youtube.com/@tastyliveshow)
+- [TastyLiveShow](https://www.youtube.com/@tastyliveshow) [中文](https://www.youtube.com/@tastylivechina)
 - [TraderlinkLLC](https://www.youtube.com/@TraderlinkLLC)
 - [TraderMcStockster](https://www.youtube.com/@TraderMcStockster)
 - [TheMarketMemo](https://www.youtube.com/@TheMarketMemo)
 
 ## 教程
 
+- [SpotGammaSupportCenter](https://support.spotgamma.com/hc/en-us)
 - [富途牛牛投资课程](https://www.futunn.com/learn)
 - [富途牛牛词条百科](https://www.futunn.com/learn/wiki)
 - [富途牛牛技术面分析](https://support.futunn.com/categories/768)
