@@ -28,7 +28,7 @@ layout: default
 - [Gflows](https://gflows.app/)
 - [Option Strat](https://optionstrat.com/)
 - [SPX Gamma](https://www.spxgamma.com/)
-- [Trading View](https://www.tradingview.com/)
+- [TradingView](https://www.tradingview.com/)
 - [Tradytics](https://tradytics.com/)
 - [Unusual Whales](https://unusualwhales.com/)
 
