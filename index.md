@@ -24,7 +24,7 @@ layout: default
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
 - [Finviz](https://finviz.com/)
 - [First Principles Trader](https://firstprinciplestrader.com/)
-- [GFlows](https://gflows.app/)
+- [Gflows](https://gflows.app/)
 - [Option Strat](https://optionstrat.com/)
 - [SPX Gamma](https://www.spxgamma.com/)
 - [Trading View](https://www.tradingview.com/)
