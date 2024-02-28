@@ -23,7 +23,7 @@ layout: default
 - [Barchart](https://www.barchart.com/)
 - [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
-- [FinViz](https://finviz.com/)
+- [Finviz](https://finviz.com/)
 - [First Principles Trader](https://firstprinciplestrader.com/)
 - [GFlows](https://gflows.app/)
 - [OptionStrat](https://optionstrat.com/)
