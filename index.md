@@ -12,6 +12,7 @@ layout: default
 - [The Wall Street Journal](https://www.wsj.com/) [中文](https://cn.wsj.com/)
 - [Wall Street Bets](https://www.reddit.com/r/wallstreetbets/)
 - [财联社](https://www.cls.cn/)
+- [格隆汇](https://www.gelonghui.com/)
 - [金十数据](https://www.jin10.com/)
 - [美港电讯](https://www.ushknews.com/)
 - [华尔街见闻](https://wallstreetcn.com/)
