@@ -33,7 +33,6 @@ layout: default
 
 ## 视频
 
-- [Income Options Trading](https://www.youtube.com/@IncomeOptionsTrading)
 - [InvestAnswers](https://www.youtube.com/@InvestAnswers)
 - [LEI](https://www.youtube.com/@TheMarketMemo)
 - [Master Technical Analysis (MTA)](https://www.youtube.com/@mastertechnicalanalysismta7734)
