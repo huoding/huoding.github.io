@@ -33,19 +33,13 @@ layout: default
 
 ## 视频
 
-- [Fatty Trades](https://www.youtube.com/@FattyTrades)
-- [Geeks of Finance](https://www.youtube.com/@geeksoffinance)
 - [Income Options Trading](https://www.youtube.com/@IncomeOptionsTrading)
 - [InvestAnswers](https://www.youtube.com/@InvestAnswers)
 - [LEI](https://www.youtube.com/@TheMarketMemo)
 - [Master Technical Analysis (MTA)](https://www.youtube.com/@mastertechnicalanalysismta7734)
-- [Options Millionaire](https://www.youtube.com/@OptionsMillionaire)
-- [Option Omega](https://www.youtube.com/@OptionOmega)
 - [PowerUpGammas](https://www.youtube.com/@PowerUpGammas)
-- [SpotGamma](https://www.youtube.com/@spotgamma)
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
 - [Tastylive](https://www.youtube.com/@tastyliveshow) [中文](https://www.youtube.com/@tastylivechina)
-- [Trader McStockster](https://www.youtube.com/@TraderMcStockster)
 - [刀鋒美股 Edge Stock Trading](https://www.youtube.com/@EdgeStockTrading)
 
 ## 教程
