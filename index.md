@@ -41,8 +41,9 @@ layout: default
 - [Tastylive](https://www.youtube.com/@tastyliveshow) [中文](https://www.youtube.com/@tastylivechina)
 - [刀鋒美股 Edge Stock Trading](https://www.youtube.com/@EdgeStockTrading)
 
-## 教程
+## 文章
 
+- [John Einar Sandvand](https://www.sandvand.net/)
 - [富途牛牛投资课程](https://www.futunn.com/learn)
 - [富途牛牛词条百科](https://www.futunn.com/learn/wiki)
 - [富途牛牛技术面分析](https://support.futunn.com/categories/768)
