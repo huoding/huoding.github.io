@@ -17,6 +17,7 @@ layout: default
 
 ## 工具
 
+- [2187](https://2187.io/)
 - [ARK 追踪神器](https://ark.alien-tomato.com/)
 - [APE Wisdom](https://apewisdom.io/)
 - [Barchart](https://www.barchart.com/)
