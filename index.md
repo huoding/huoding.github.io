@@ -8,7 +8,6 @@ layout: default
 - [Economic Calendar](https://www.investing.com/economic-calendar/) [中文](https://cn.investing.com/economic-calendar/)
 - [Financial Times](https://www.ft.com/) [中文](https://www.ftchinese.com/)
 - [Reuters](https://www.reuters.com/)
-- [Seeking Alpha](https://seekingalpha.com/)
 - [The Wall Street Journal](https://www.wsj.com/) [中文](https://cn.wsj.com/)
 - [Wall Street Bets](https://www.reddit.com/r/wallstreetbets/)
 - [财联社](https://www.cls.cn/)
@@ -18,7 +17,6 @@ layout: default
 ## 工具
 
 - [2187](https://2187.io/)
-- [ARK 追踪神器](https://ark.alien-tomato.com/)
 - [APE Wisdom](https://apewisdom.io/)
 - [Barchart](https://www.barchart.com/)
 - [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
@@ -34,6 +32,7 @@ layout: default
 
 ## 视频
 
+- [Al Losada](https://www.youtube.com/@SimpleOptionStrategies)
 - [InvestAnswers](https://www.youtube.com/@InvestAnswers)
 - [LEI](https://www.youtube.com/@TheMarketMemo)
 - [Master Technical Analysis (MTA)](https://www.youtube.com/@mastertechnicalanalysismta7734)
