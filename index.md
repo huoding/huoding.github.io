@@ -5,13 +5,10 @@ layout: default
 ## 消息
 
 - [Bloomberg](https://www.bloomberg.com/)
-- [Economic Calendar](https://www.investing.com/economic-calendar/)
-    - [中文](https://cn.investing.com/economic-calendar/)
-- [Financial Times](https://www.ft.com/)
-    - [中文](https://www.ftchinese.com/)
+- [Economic Calendar](https://www.investing.com/economic-calendar/) [中文](https://cn.investing.com/economic-calendar/)
+- [Financial Times](https://www.ft.com/) [中文](https://www.ftchinese.com/)
 - [Reuters](https://www.reuters.com/)
-- [The Wall Street Journal](https://www.wsj.com/)
-    - [中文](https://cn.wsj.com/)
+- [The Wall Street Journal](https://www.wsj.com/) [中文](https://cn.wsj.com/)
 - [Wall Street Bets](https://www.reddit.com/r/wallstreetbets/)
 - [财联社](https://www.cls.cn/)
 - [金十数据](https://www.jin10.com/)
