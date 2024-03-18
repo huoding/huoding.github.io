@@ -17,7 +17,7 @@ layout: default
 ## 工具
 
 - [2187](https://2187.io/)
-- [APE Wisdom](https://apewisdom.io/)
+- [ARK 追踪神器](https://ark.alien-tomato.com/)
 - [Barchart](https://www.barchart.com/)
 - [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
