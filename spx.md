@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## [SPX - Quotes Dashboard](https://www.cboe.com/delayed_quotes/spx)
+## Link
+
+- [SPX - Quotes Dashboard](https://www.cboe.com/delayed_quotes/spx)
 
 ## Chart
 
