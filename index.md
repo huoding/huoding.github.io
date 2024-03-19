@@ -50,5 +50,5 @@ layout: default
 - [富途牛牛技术面分析](https://support.futunn.com/categories/768)
 
 ![SPX](https://www.ivolatility.com/nchart.j?charts=price&1=ticker*SPX)
-![SPX](https://www.ivolatility.com/nchart.j?charts=volume&1=ticker*SPX)
+
 ![SPX](https://www.ivolatility.com/nchart.j?charts=volatility&1=ticker*SPX)
