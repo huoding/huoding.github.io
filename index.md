@@ -30,8 +30,10 @@ layout: default
 ## 视频
 
 - [Al Losada](https://www.youtube.com/@SimpleOptionStrategies)
+- [Income Options Trading](https://www.youtube.com/c/IncomeOptionsTrading)
 - [InvestAnswers](https://www.youtube.com/@InvestAnswers)
 - [LEI](https://www.youtube.com/@TheMarketMemo)
+- [LoganLaj](https://www.youtube.com/@loganlaj)
 - [Master Technical Analysis (MTA)](https://www.youtube.com/@mastertechnicalanalysismta7734)
 - [PowerUpGammas](https://www.youtube.com/@PowerUpGammas)
 - [ProjectFinance](https://www.youtube.com/@projectfinance)
