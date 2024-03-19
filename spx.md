@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## Link
+## 链接
 
 - [SPX - Quotes Dashboard](https://www.cboe.com/delayed_quotes/spx)
 
-## Chart
+## 图表
 
 ![SPX](https://www.ivolatility.com/nchart.j?charts=price&1=ticker*SPX)
 
