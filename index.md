@@ -48,7 +48,3 @@ layout: default
 - [富途牛牛投资课程](https://www.futunn.com/learn)
 - [富途牛牛词条百科](https://www.futunn.com/learn/wiki)
 - [富途牛牛技术面分析](https://support.futunn.com/categories/768)
-
-![SPX](https://www.ivolatility.com/nchart.j?charts=price&1=ticker*SPX)
-
-![SPX](https://www.ivolatility.com/nchart.j?charts=volatility&1=ticker*SPX)
