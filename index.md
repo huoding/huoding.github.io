@@ -26,7 +26,6 @@ layout: default
 - [OptionStrat](https://optionstrat.com/)
 - [SPX Gamma](https://www.spxgamma.com/)
 - [TradingView](https://www.tradingview.com/)
-    - [DIY Custom Strategy Builder ZP - v1](https://www.tradingview.com/script/Oun5v3Zq-DIY-Custom-Strategy-Builder-ZP-v1/)
 
 ## 视频
 
@@ -46,6 +45,3 @@ layout: default
 
 - [John Einar Sandvand](https://www.sandvand.net/)
 - [Options Trading IQ](https://optionstradingiq.com/)
-- [富途牛牛投资课程](https://www.futunn.com/learn)
-- [富途牛牛词条百科](https://www.futunn.com/learn/wiki)
-- [富途牛牛技术面分析](https://support.futunn.com/categories/768)
