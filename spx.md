@@ -4,7 +4,8 @@ layout: default
 
 ## 链接
 
-- [SPX - Quotes Dashboard](https://www.cboe.com/delayed_quotes/spx)
+- [CBOE](https://www.cboe.com/delayed_quotes/spx)
+- [TradingView](https://www.tradingview.com/chart/WVU5IU5C/?symbol=SP%3ASPX)
 
 ## 图表
 

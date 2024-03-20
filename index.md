@@ -26,6 +26,7 @@ layout: default
 - [OptionStrat](https://optionstrat.com/)
 - [SPX Gamma](https://www.spxgamma.com/)
 - [TradingView](https://www.tradingview.com/)
+    - [DIY Custom Strategy Builder ZP - v1](https://www.tradingview.com/script/Oun5v3Zq-DIY-Custom-Strategy-Builder-ZP-v1/)
 
 ## 视频
 
