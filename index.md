@@ -44,4 +44,5 @@ layout: default
 ## 其它
 
 - [John Einar Sandvand](https://www.sandvand.net/)
+- [Option Alpha](https://optionalpha.com/)
 - [Options Trading IQ](https://optionstradingiq.com/)
