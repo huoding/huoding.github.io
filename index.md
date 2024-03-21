@@ -45,4 +45,3 @@ layout: default
 
 - [John Einar Sandvand](https://www.sandvand.net/)
 - [Options Trading IQ](https://optionstradingiq.com/)
-- [SPYSTSignals](https://substack.com/@spystsignals)
