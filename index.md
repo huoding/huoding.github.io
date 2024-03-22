@@ -14,9 +14,7 @@ layout: default
 ## 工具
 
 - [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
-- [Barchart](https://www.barchart.com/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
-- [Finviz](https://finviz.com/)
 - [First Principles Trader](https://firstprinciplestrader.com/)
 - [GFlows](https://gflows.app/)
 - [OptionStrat](https://optionstrat.com/)
