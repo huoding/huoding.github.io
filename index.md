@@ -16,7 +16,6 @@ layout: default
 
 - [ARK 追踪神器](https://ark.alien-tomato.com/)
 - [Barchart](https://www.barchart.com/)
-- [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
 - [Finviz](https://finviz.com/)
 - [First Principles Trader](https://firstprinciplestrader.com/)
