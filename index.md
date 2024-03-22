@@ -13,7 +13,7 @@ layout: default
 
 ## 工具
 
-- [0 DTE S&amp;P 500 Options Volatility Tracker](https://0dtespx.com/)
+- [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
 - [Barchart](https://www.barchart.com/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
 - [Finviz](https://finviz.com/)
