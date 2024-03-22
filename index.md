@@ -9,13 +9,11 @@ layout: default
 - [Financial Times](https://www.ft.com/) [中文](https://www.ftchinese.com/)
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/) [中文](https://cn.wsj.com/)
-- [财联社](https://www.cls.cn/)
 - [金十数据](https://www.jin10.com/)
 
 ## 工具
 
-- [0 DTE S&amp;P 500 options volatility tracker](https://0dtespx.com/)
-- [ARK 追踪神器](https://ark.alien-tomato.com/)
+- [0 DTE S&amp;P 500 Options Volatility Tracker](https://0dtespx.com/)
 - [Barchart](https://www.barchart.com/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
 - [Finviz](https://finviz.com/)
