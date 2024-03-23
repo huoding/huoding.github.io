@@ -29,6 +29,7 @@ layout: default
 - [LEI](https://www.youtube.com/@TheMarketMemo)
 - [LoganLaj](https://www.youtube.com/@loganlaj)
 - [Master Technical Analysis (MTA)](https://www.youtube.com/@mastertechnicalanalysismta7734)
+- [Option Alpha](https://www.youtube.com/@OptionAlpha)
 - [PowerUpGammas](https://www.youtube.com/@PowerUpGammas)
 - [ProjectFinance](https://www.youtube.com/@projectfinance)
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
@@ -38,5 +39,4 @@ layout: default
 ## 其它
 
 - [John Einar Sandvand](https://www.sandvand.net/)
-- [Option Alpha](https://optionalpha.com/)
 - [Options Trading IQ](https://optionstradingiq.com/)
