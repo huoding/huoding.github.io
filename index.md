@@ -5,10 +5,9 @@ layout: default
 ## 消息
 
 - [Bloomberg](https://www.bloomberg.com/)
-- [Economic Calendar](https://www.investing.com/economic-calendar/) [中文](https://cn.investing.com/economic-calendar/)
-- [Financial Times](https://www.ft.com/) [中文](https://www.ftchinese.com/)
+- [Financial Times](https://www.ft.com/)
 - [Reuters](https://www.reuters.com/)
-- [The Wall Street Journal](https://www.wsj.com/) [中文](https://cn.wsj.com/)
+- [The Wall Street Journal](https://www.wsj.com/)
 - [金十数据](https://www.jin10.com/)
 
 ## 工具
@@ -16,24 +15,23 @@ layout: default
 - [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
 - [First Principles Trader](https://firstprinciplestrader.com/)
-- [GFlows](https://gflows.app/)
-- [OptionStrat](https://optionstrat.com/)
+- [Greek Flows](https://gflows.app/)
+- [Option Strat](https://optionstrat.com/)
 - [SPX Gamma](https://www.spxgamma.com/)
-- [TradingView](https://www.tradingview.com/)
 
 ## 视频
 
 - [Al Losada](https://www.youtube.com/@SimpleOptionStrategies)
 - [Income Options Trading](https://www.youtube.com/c/IncomeOptionsTrading)
 - [InvestAnswers](https://www.youtube.com/@InvestAnswers)
-- [LEI](https://www.youtube.com/@TheMarketMemo)
-- [LoganLaj](https://www.youtube.com/@loganlaj)
+- [Logan Laj](https://www.youtube.com/@loganlaj)
 - [Master Technical Analysis (MTA)](https://www.youtube.com/@mastertechnicalanalysismta7734)
 - [Option Alpha](https://www.youtube.com/@OptionAlpha)
-- [PowerUpGammas](https://www.youtube.com/@PowerUpGammas)
-- [ProjectFinance](https://www.youtube.com/@projectfinance)
+- [Power Up Gammas](https://www.youtube.com/@PowerUpGammas)
+- [Projec tFinance](https://www.youtube.com/@projectfinance)
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
-- [Tastylive](https://www.youtube.com/@tastyliveshow) [中文](https://www.youtube.com/@tastylivechina)
+- [Tasty Live](https://www.youtube.com/@tastyliveshow)
+- [期权面面观](https://www.youtube.com/@tastylivechina)
 - [刀鋒美股 Edge Stock Trading](https://www.youtube.com/@EdgeStockTrading)
 
 ## 其它
