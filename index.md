@@ -25,7 +25,6 @@ layout: default
 - [Income Options Trading](https://www.youtube.com/c/IncomeOptionsTrading)
 - [Invest Answers](https://www.youtube.com/@InvestAnswers)
 - [Logan Laj](https://www.youtube.com/@loganlaj)
-- [Master Technical Analysis (MTA)](https://www.youtube.com/@mastertechnicalanalysismta7734)
 - [Option Alpha](https://www.youtube.com/@OptionAlpha)
 - [Project Finance](https://www.youtube.com/@projectfinance)
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
