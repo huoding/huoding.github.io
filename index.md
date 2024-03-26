@@ -26,6 +26,7 @@ layout: default
 - [Invest Answers](https://www.youtube.com/@InvestAnswers)
 - [Logan Laj](https://www.youtube.com/@loganlaj)
 - [Option Alpha](https://www.youtube.com/@OptionAlpha)
+- [Power Up Gammas](https://www.youtube.com/@PowerUpGammas)
 - [Project Finance](https://www.youtube.com/@projectfinance)
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
 - [Tasty Live](https://www.youtube.com/@tastyliveshow)
