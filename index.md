@@ -18,7 +18,6 @@ layout: default
 - [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
 - [First Principles Trader](https://firstprinciplestrader.com/)
 - [Greek Flows](https://gflows.app/)
-- [Option Strat](https://optionstrat.com/)
 - [SPX Gamma](https://www.spxgamma.com/)
 
 ## 视频
