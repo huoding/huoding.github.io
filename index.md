@@ -2,6 +2,9 @@
 layout: default
 ---
 
+- [Economic Calendar](https://www.investing.com/economic-calendar/)
+- [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
+
 ## 消息
 
 - [Bloomberg](https://www.bloomberg.com/)
@@ -13,7 +16,6 @@ layout: default
 ## 工具
 
 - [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
-- [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
 - [First Principles Trader](https://firstprinciplestrader.com/)
 - [Greek Flows](https://gflows.app/)
 - [Option Strat](https://optionstrat.com/)
