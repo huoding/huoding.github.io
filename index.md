@@ -11,7 +11,6 @@ layout: default
 - [Financial Times](https://www.ft.com/)
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
-- [金十数据](https://www.jin10.com/)
 
 ## 工具
 
