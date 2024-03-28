@@ -29,7 +29,7 @@ layout: default
 - [Power Up Gammas](https://www.youtube.com/@PowerUpGammas)
 - [Project Finance](https://www.youtube.com/@projectfinance)
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
-- [Tasty Live](https://www.youtube.com/@tastyliveshow) [中文](https://www.youtube.com/@tastylivechina)
+- [Tasty Live](https://www.youtube.com/@tastyliveshow) [Tasty Live China](https://www.youtube.com/@tastylivechina)
 
 ## 其它
 
