@@ -23,7 +23,6 @@ layout: default
 ## 视频
 
 - [Al Losada](https://www.youtube.com/@SimpleOptionStrategies)
-- [Income Options Trading](https://www.youtube.com/c/IncomeOptionsTrading)
 - [Invest Answers](https://www.youtube.com/@InvestAnswers)
 - [Logan Laj](https://www.youtube.com/@loganlaj)
 - [Option Alpha](https://www.youtube.com/@OptionAlpha)
