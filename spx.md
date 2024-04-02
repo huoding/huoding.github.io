@@ -6,7 +6,9 @@ layout: default
 
 - [CBOE SPX](https://www.cboe.com/delayed_quotes/spx)
 - [CBOE VIX1D](https://www.cboe.com/us/indices/dashboard/vix1d/)
-- [TradingView](https://www.tradingview.com/chart/WVU5IU5C/?symbol=SP%3ASPX)
+- [SPX](https://www.tradingview.com/chart/WVU5IU5C/?symbol=CBOE%3ASPX)
+- [SPY](https://www.tradingview.com/chart/WVU5IU5C/?symbol=AMEX%3ASPY)
+- [ES](https://www.tradingview.com/chart/WVU5IU5C/?symbol=CME_MINI%3AES1%21)
 
 ## 图表
 
