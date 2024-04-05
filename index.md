@@ -28,7 +28,6 @@ layout: default
 - [Option Alpha](https://www.youtube.com/@OptionAlpha)
 - [Power Up Gammas](https://www.youtube.com/@PowerUpGammas)
 - [Project Finance](https://www.youtube.com/@projectfinance)
-- [Ripster, Tenet Trade Group](https://www.youtube.com/@RipsterChartsPriceAction)
 - [Sasha Evdakov: Tradersfly](https://www.youtube.com/@tradersflyofficial)
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
 - [Tasty Live](https://www.youtube.com/@tastyliveshow) [中文](https://www.youtube.com/@tastylivechina)
