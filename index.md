@@ -31,6 +31,7 @@ layout: default
 - [Sasha Evdakov: Tradersfly](https://www.youtube.com/@tradersflyofficial)
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
 - [Tasty Live](https://www.youtube.com/@tastyliveshow) [中文](https://www.youtube.com/@tastylivechina)
+- [Wysetrade](https://www.youtube.com/@Wysetrade)
 
 ## 其它
 
