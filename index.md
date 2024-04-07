@@ -33,5 +33,6 @@ layout: default
 
 ## 其它
 
+- [Data Driven Options Trading](https://datadrivenoptions.com/)
 - [John Einar Sandvand](https://www.sandvand.net/)
 - [Options Trading IQ](https://optionstradingiq.com/)
