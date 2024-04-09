@@ -29,7 +29,6 @@ layout: default
 - [Project Finance](https://www.youtube.com/@projectfinance)
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
 - [Tasty Live](https://www.youtube.com/@tastyliveshow)
-- [Wysetrade](https://www.youtube.com/@Wysetrade)
 
 ## 其它
 
