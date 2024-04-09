@@ -23,7 +23,6 @@ layout: default
 ## TUBE
 
 - [Al Losada](https://www.youtube.com/@SimpleOptionStrategies)
-- [Invest Answers](https://www.youtube.com/@InvestAnswers)
 - [Logan Laj](https://www.youtube.com/@loganlaj)
 - [Option Alpha](https://www.youtube.com/@OptionAlpha)
 - [Project Finance](https://www.youtube.com/@projectfinance)
