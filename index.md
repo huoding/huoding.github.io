@@ -5,14 +5,14 @@ layout: default
 - [Economic Calendar](https://www.investing.com/economic-calendar/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
 
-## 消息
+## NEWS
 
 - [Bloomberg](https://www.bloomberg.com/)
 - [Financial Times](https://www.ft.com/)
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
 
-## 工具
+## TOOL
 
 - [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
 - [First Principles Trader](https://firstprinciplestrader.com/)
@@ -20,7 +20,7 @@ layout: default
 - [Greek Flows](https://gflows.app/)
 - [SPX Gamma](https://www.spxgamma.com/)
 
-## 视频
+## VIDEO
 
 - [Al Losada](https://www.youtube.com/@SimpleOptionStrategies)
 - [Invest Answers](https://www.youtube.com/@InvestAnswers)
@@ -30,7 +30,7 @@ layout: default
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
 - [Tasty Live](https://www.youtube.com/@tastyliveshow)
 
-## 其它
+## OTHER
 
 - [Data Driven Options Trading](https://datadrivenoptions.com/)
 - [John Einar Sandvand](https://www.sandvand.net/)
