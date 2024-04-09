@@ -20,7 +20,7 @@ layout: default
 - [Greek Flows](https://gflows.app/)
 - [SPX Gamma](https://www.spxgamma.com/)
 
-## VIDEO
+## TUBE
 
 - [Al Losada](https://www.youtube.com/@SimpleOptionStrategies)
 - [Invest Answers](https://www.youtube.com/@InvestAnswers)
