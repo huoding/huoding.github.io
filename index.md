@@ -33,4 +33,5 @@ layout: default
 
 - [Data Driven Options Trading](https://datadrivenoptions.com/)
 - [John Einar Sandvand](https://www.sandvand.net/)
+- [Options Trading – a Beginner's Journal](https://optionstradesbydamocles.com/)
 - [Options Trading IQ](https://optionstradingiq.com/)
