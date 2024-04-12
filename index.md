@@ -27,6 +27,7 @@ layout: default
 - [Project Finance](https://www.youtube.com/@projectfinance)
 - [Ripster, Tenet Trade Group](https://www.youtube.com/@RipsterChartsPriceAction)
 - [Sasha Evdakov: Tradersfly](https://www.youtube.com/@tradersflyofficial)
+- [Stock Market Options Trading](https://www.youtube.com/@StockMarketOptionsTrading)
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
 - [Tasty Live](https://www.youtube.com/@tastyliveshow)
 
