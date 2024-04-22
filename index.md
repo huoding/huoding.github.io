@@ -13,10 +13,6 @@ layout: default
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
 
-# TSLA
-
-- [Selling TSLA Options - Be the House](https://teslamotorsclub.com/tmc/threads/selling-tsla-options-be-the-house.191290/)
-
 ## TOOL
 
 - [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
