@@ -13,7 +13,7 @@ layout: default
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
 
-# TSLA
+## TSLA
 
 - [Selling TSLA Options - Be the House](https://teslamotorsclub.com/tmc/threads/selling-tsla-options-be-the-house.191290/)
 
