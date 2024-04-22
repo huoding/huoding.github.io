@@ -13,12 +13,6 @@ layout: default
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
 
-## BLOG
-
-- [Data Driven Options Trading](https://datadrivenoptions.com/)
-- [John Einar Sandvand](https://www.sandvand.net/)
-- [Options Trading IQ](https://optionstradingiq.com/)
-
 ## TOOL
 
 - [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
@@ -42,3 +36,9 @@ layout: default
 ## TSLA
 
 - [Selling TSLA Options - Be the House](https://teslamotorsclub.com/tmc/threads/selling-tsla-options-be-the-house.191290/)
+
+## MISC
+
+- [Data Driven Options Trading](https://datadrivenoptions.com/)
+- [John Einar Sandvand](https://www.sandvand.net/)
+- [Options Trading IQ](https://optionstradingiq.com/)
