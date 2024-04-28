@@ -36,7 +36,6 @@ layout: default
 ## TSLA
 
 - [Selling TSLA Options - Be the House](https://teslamotorsclub.com/tmc/threads/selling-tsla-options-be-the-house.191290/)
-- [Summary Volume and Price by Trading Session for TSLA](https://marketchameleon.com/Overview/TSLA/Stock-Price-Action/)
 
 ## MISC
 
