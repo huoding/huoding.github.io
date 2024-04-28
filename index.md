@@ -33,6 +33,11 @@ layout: default
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
 - [Tasty Live](https://www.youtube.com/@tastyliveshow)
 
+## TSLA
+
+- [Selling TSLA Options - Be the House](https://teslamotorsclub.com/tmc/threads/selling-tsla-options-be-the-house.191290/)
+- [The Trader's Cheat Sheet](https://www.barchart.com/stocks/quotes/TSLA/cheat-sheet)
+
 ## MISC
 
 - [Data Driven Options Trading](https://datadrivenoptions.com/)
