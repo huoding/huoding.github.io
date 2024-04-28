@@ -35,6 +35,7 @@ layout: default
 
 ## TSLA
 
+- [Best and Worst Hour of Trading for TSLA](https://marketchameleon.com/Overview/TSLA/Stock-Price-Action/Best-and-Worst-Hour-of-Trading)
 - [Selling TSLA Options - Be the House](https://teslamotorsclub.com/tmc/threads/selling-tsla-options-be-the-house.191290/)
 
 ## MISC
