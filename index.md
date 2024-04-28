@@ -36,7 +36,6 @@ layout: default
 ## TSLA
 
 - [Selling TSLA Options - Be the House](https://teslamotorsclub.com/tmc/threads/selling-tsla-options-be-the-house.191290/)
-- [Trader's Cheat Sheet](https://www.barchart.com/stocks/quotes/TSLA/cheat-sheet)
 
 ## MISC
 
