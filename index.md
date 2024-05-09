@@ -24,7 +24,6 @@ layout: default
 
 - [Al Losada](https://www.youtube.com/@SimpleOptionStrategies)
 - [Credit Spread Investing](https://www.youtube.com/@CreditSpreadInvesting)
-- [Logan Laj](https://www.youtube.com/@loganlaj)
 - [Option Alpha](https://www.youtube.com/@OptionAlpha)
 - [Project Finance](https://www.youtube.com/@projectfinance)
 - [Ripster, Tenet Trade Group](https://www.youtube.com/@RipsterChartsPriceAction)
