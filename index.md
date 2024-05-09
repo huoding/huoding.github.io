@@ -33,12 +33,12 @@ layout: default
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
 - [Tasty Live](https://www.youtube.com/@tastyliveshow)
 
-## TSLA
-
-- [Selling TSLA Options - Be the House](https://teslamotorsclub.com/tmc/threads/selling-tsla-options-be-the-house.191290/)
-
 ## MISC
 
 - [Data Driven Options Trading](https://datadrivenoptions.com/)
 - [John Einar Sandvand](https://www.sandvand.net/)
 - [Options Trading IQ](https://optionstradingiq.com/)
+
+## TSLA
+
+- [Selling TSLA Options - Be the House](https://teslamotorsclub.com/tmc/threads/selling-tsla-options-be-the-house.191290/)
