@@ -27,7 +27,7 @@ layout: default
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
 - [Tasty Live](https://www.youtube.com/@tastyliveshow)
 
-## UTIL
+## TOOL
 
 - [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
 - [First Principles Trader](https://firstprinciplestrader.com/)
