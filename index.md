@@ -17,6 +17,13 @@ layout: default
 
 - [Selling TSLA Options - Be the House](https://teslamotorsclub.com/tmc/threads/selling-tsla-options-be-the-house.191290/)
 
+## TOOL
+
+- [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
+- [First Principles Trader](https://firstprinciplestrader.com/)
+- [Greek Flows](https://gflows.app/)
+- [SPX Gamma](https://www.spxgamma.com/)
+
 ## TUBE
 
 - [Al Losada](https://www.youtube.com/@SimpleOptionStrategies)
@@ -26,13 +33,6 @@ layout: default
 - [Sasha Evdakov: Tradersfly](https://www.youtube.com/@tradersflyofficial)
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
 - [Tasty Live](https://www.youtube.com/@tastyliveshow)
-
-## TOOL
-
-- [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
-- [First Principles Trader](https://firstprinciplestrader.com/)
-- [Greek Flows](https://gflows.app/)
-- [SPX Gamma](https://www.spxgamma.com/)
 
 ## MISC
 
