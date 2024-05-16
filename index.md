@@ -16,8 +16,8 @@ layout: default
 
 ## TSLA
 
-- [Nasdaq TSLA Short Interest](https://www.nasdaq.com/market-activity/stocks/tsla/short-interest)
-- [Tesla Motors Club Selling TSLA Options](https://teslamotorsclub.com/tmc/threads/selling-tsla-options-be-the-house.191290/)
+- [Nasdaq: TSLA Short Interest](https://www.nasdaq.com/market-activity/stocks/tsla/short-interest)
+- [Tesla Motors Club: Selling TSLA Options](https://teslamotorsclub.com/tmc/threads/selling-tsla-options-be-the-house.191290/)
 
 ## TOOL
 
