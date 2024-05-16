@@ -14,6 +14,11 @@ layout: default
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
 
+## REDDIT
+
+- [Roaring Kitty](https://www.reddit.com/r/roaringkitty/)
+- [Wall Street Bets](https://www.reddit.com/r/wallstreetbets/)
+
 ## TSLA
 
 - [Tesla, Inc. (TSLA) - Yahoo Finance](https://finance.yahoo.com/quote/TSLA)
@@ -26,11 +31,6 @@ layout: default
 - [First Principles Trader](https://firstprinciplestrader.com/)
 - [Greek Flows](https://gflows.app/)
 - [SPX Gamma](https://www.spxgamma.com/)
-
-## REDDIT
-
-- [Roaring Kitty](https://www.reddit.com/r/roaringkitty/)
-- [Wall Street Bets](https://www.reddit.com/r/wallstreetbets/)
 
 ## YOUTUBE
 
