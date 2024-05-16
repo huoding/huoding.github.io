@@ -16,7 +16,7 @@ layout: default
 
 ## TSLA
 
-- [Tesla, Inc. (TSLA) Valuation Measures & Financial Statistics](https://finance.yahoo.com/quote/TSLA/key-statistics/)
+- [Tesla, Inc. (TSLA) - Yahoo Finance](https://finance.yahoo.com/quote/TSLA)
 - [TSLA Investor Discussions](https://teslamotorsclub.com/tmc/forums/tsla-investor-discussions.119/)
 
 ## TOOL
