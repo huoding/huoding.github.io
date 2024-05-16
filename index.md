@@ -16,7 +16,7 @@ layout: default
 
 ## TSLA
 
-- [Tesla (TSLA) Short Interest Ratio & Short Volume](https://www.marketbeat.com/stocks/NASDAQ/TSLA/short-interest/)
+- [Tesla, Inc. (TSLA) Valuation Measures & Financial Statistics](https://finance.yahoo.com/quote/TSLA/key-statistics/)
 - [TSLA Investor Discussions](https://teslamotorsclub.com/tmc/forums/tsla-investor-discussions.119/)
 
 ## TOOL
