@@ -18,6 +18,7 @@ layout: default
 
 - [Tesla, Inc. (TSLA) - Yahoo Finance](https://finance.yahoo.com/quote/TSLA)
 - [TSLA Investor Discussions](https://teslamotorsclub.com/tmc/forums/tsla-investor-discussions.119/)
+- [TSLA Short Interest](https://fintel.io/ss/us/tsla)
 
 ## TOOL
 
