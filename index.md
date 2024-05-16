@@ -27,7 +27,7 @@ layout: default
 - [Greek Flows](https://gflows.app/)
 - [SPX Gamma](https://www.spxgamma.com/)
 
-## Reddit
+## REDDIT
 
 - [Roaring Kitty](https://www.reddit.com/r/roaringkitty/)
 - [Wall Street Bets](https://www.reddit.com/r/wallstreetbets/)
