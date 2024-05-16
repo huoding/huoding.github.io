@@ -19,18 +19,18 @@ layout: default
 - [Roaring Kitty](https://www.reddit.com/r/roaringkitty/)
 - [Wall Street Bets](https://www.reddit.com/r/wallstreetbets/)
 
-## TSLA
-
-- [Tesla, Inc. (TSLA) - Yahoo Finance](https://finance.yahoo.com/quote/TSLA)
-- [TSLA Investor Discussions](https://teslamotorsclub.com/tmc/forums/tsla-investor-discussions.119/)
-- [TSLA Short Interest](https://fintel.io/ss/us/tsla)
-
 ## TOOL
 
 - [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
 - [First Principles Trader](https://firstprinciplestrader.com/)
 - [Greek Flows](https://gflows.app/)
 - [SPX Gamma](https://www.spxgamma.com/)
+
+## TSLA
+
+- [Tesla, Inc. (TSLA) - Yahoo Finance](https://finance.yahoo.com/quote/TSLA)
+- [TSLA Investor Discussions](https://teslamotorsclub.com/tmc/forums/tsla-investor-discussions.119/)
+- [TSLA Short Interest](https://fintel.io/ss/us/tsla)
 
 ## YOUTUBE
 
