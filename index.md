@@ -16,7 +16,7 @@ layout: default
 
 ## REDDIT
 
-- [Roaring Kitty](https://www.reddit.com/r/roaringkitty/)
+- [Penny Stocks](https://www.reddit.com/r/pennystocks/)
 - [Wall Street Bets](https://www.reddit.com/r/wallstreetbets/)
 
 ## TOOL
