@@ -25,7 +25,6 @@ layout: default
 - [First Principles Trader](https://firstprinciplestrader.com/)
 - [Greek Flows](https://gflows.app/)
 - [SPX Gamma](https://www.spxgamma.com/)
-- [Yahoo Finance Screeners](https://finance.yahoo.com/screener)
 
 ## TSLA
 
