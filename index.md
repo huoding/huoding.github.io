@@ -2,6 +2,7 @@
 layout: default
 ---
 
+- [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 - [Economic Calendar](https://www.investing.com/economic-calendar/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
 - [NYSE McClellan Oscillator](https://www.mcoscillator.com/market_breadth_data/)
