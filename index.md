@@ -22,13 +22,7 @@ layout: default
 - [Greek Flows](https://gflows.app/)
 - [SPX Gamma](https://www.spxgamma.com/)
 
-## TSLA
-
-- [Tesla, Inc. (TSLA) - Yahoo Finance](https://finance.yahoo.com/quote/TSLA)
-- [TSLA Investor Discussions](https://teslamotorsclub.com/tmc/forums/tsla-investor-discussions.119/)
-- [TSLA Short Interest](https://fintel.io/ss/us/tsla)
-
-## YOUTUBE
+## TUBE
 
 - [Al Losada](https://www.youtube.com/@SimpleOptionStrategies)
 - [Option Alpha](https://www.youtube.com/@OptionAlpha)
@@ -37,6 +31,12 @@ layout: default
 - [Sasha Evdakov: Tradersfly](https://www.youtube.com/@tradersflyofficial)
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
 - [Tasty Live](https://www.youtube.com/@tastyliveshow)
+
+## TSLA
+
+- [Tesla, Inc. (TSLA) - Yahoo Finance](https://finance.yahoo.com/quote/TSLA)
+- [TSLA Investor Discussions](https://teslamotorsclub.com/tmc/forums/tsla-investor-discussions.119/)
+- [TSLA Short Interest](https://fintel.io/ss/us/tsla)
 
 ## MISC
 
