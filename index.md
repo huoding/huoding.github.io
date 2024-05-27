@@ -15,11 +15,6 @@ layout: default
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
 
-## REDDIT
-
-- [Penny Stocks](https://www.reddit.com/r/pennystocks/)
-- [Wall Street Bets](https://www.reddit.com/r/wallstreetbets/)
-
 ## TOOL
 
 - [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
