@@ -35,6 +35,7 @@ layout: default
 
 - [Tesla, Inc. (TSLA) - Yahoo Finance](https://finance.yahoo.com/quote/TSLA)
 - [TSLA Investor Discussions](https://teslamotorsclub.com/tmc/forums/tsla-investor-discussions.119/)
+- [TSLA Put/Call Ratio](https://www.barchart.com/stocks/quotes/TSLA/put-call-ratios)
 - [TSLA Short Interest](https://fintel.io/ss/us/tsla)
 
 ## MISC
