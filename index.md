@@ -15,10 +15,9 @@ layout: default
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
 
-## TOOL
+## SPXY
 
 - [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
-- [First Principles Trader](https://firstprinciplestrader.com/)
 - [Greek Flows](https://gflows.app/)
 - [SPX Gamma](https://www.spxgamma.com/)
 
