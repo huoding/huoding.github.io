@@ -5,8 +5,6 @@ layout: default
 - [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 - [Economic Calendar](https://www.investing.com/economic-calendar/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
-- [NASDAQ McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSINAS)
-- [NYSE McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSINYA)
 - [SPX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRSPX)
 - [VIX Central](http://vixcentral.com/)
 
