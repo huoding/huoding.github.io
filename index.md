@@ -19,9 +19,3 @@ layout: default
 - [SPX Gamma](https://www.spxgamma.com/)
 - [SPX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRSPX)
 - [VIX Central](http://vixcentral.com/)
-
-## TSLA
-
-- [TSLA Investor Discussions](https://teslamotorsclub.com/tmc/forums/tsla-investor-discussions.119/)
-- [TSLA Put/Call Ratio](https://www.barchart.com/stocks/quotes/TSLA/put-call-ratios)
-- [TSLA Short Interest](https://fintel.io/ss/us/tsla)
