@@ -2,12 +2,6 @@
 layout: default
 ---
 
-- [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
-- [Economic Calendar](https://www.investing.com/economic-calendar/)
-- [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
-- [SPX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRSPX)
-- [VIX Central](http://vixcentral.com/)
-
 ## NEWS
 
 - [Bloomberg](https://www.bloomberg.com/)
@@ -21,17 +15,6 @@ layout: default
 - [Greek Flows](https://gflows.app/)
 - [SPX Gamma](https://www.spxgamma.com/)
 
-## TUBE
-
-- [Al Losada](https://www.youtube.com/@SimpleOptionStrategies)
-- [Option Alpha](https://www.youtube.com/@OptionAlpha)
-- [Project Finance](https://www.youtube.com/@projectfinance)
-- [Ripster, Tenet Trade Group](https://www.youtube.com/@RipsterChartsPriceAction)
-- [Sasha Evdakov: Tradersfly](https://www.youtube.com/@tradersflyofficial)
-- [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
-- [Tasty Live](https://www.youtube.com/@tastyliveshow)
-- [VTS - Brent Osachoff](https://www.youtube.com/@VolatilityTradingStrategies)
-
 ## TSLA
 
 - [Tesla, Inc. (TSLA) - Yahoo Finance](https://finance.yahoo.com/quote/TSLA)
@@ -39,8 +22,10 @@ layout: default
 - [TSLA Put/Call Ratio](https://www.barchart.com/stocks/quotes/TSLA/put-call-ratios)
 - [TSLA Short Interest](https://fintel.io/ss/us/tsla)
 
-## MISC
+## TOOL
 
-- [Data Driven Options Trading](https://datadrivenoptions.com/)
-- [John Einar Sandvand](https://www.sandvand.net/)
-- [Options Trading IQ](https://optionstradingiq.com/)
+- [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
+- [Economic Calendar](https://www.investing.com/economic-calendar/)
+- [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
+- [SPX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRSPX)
+- [VIX Central](http://vixcentral.com/)
