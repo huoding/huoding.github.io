@@ -30,6 +30,7 @@ layout: default
 - [Sasha Evdakov: Tradersfly](https://www.youtube.com/@tradersflyofficial)
 - [Tammy Chambless 0 DTE Options Trading](https://www.youtube.com/@tammychambless-0dteoptions)
 - [Tasty Live](https://www.youtube.com/@tastyliveshow)
+- [VTS - Brent Osachoff](https://www.youtube.com/@VolatilityTradingStrategies)
 
 ## TSLA
 
