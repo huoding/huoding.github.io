@@ -9,17 +9,14 @@ layout: default
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
 
-## 0DTE
-
-- [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
-- [SPX Gamma](https://www.spxgamma.com/)
-
 ## TOOL
 
+- [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
 - [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 - [Economic Calendar](https://www.investing.com/economic-calendar/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
 - [Greek Flows](https://gflows.app/)
+- [SPX Gamma](https://www.spxgamma.com/)
 - [SPX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRSPX)
 - [VIX Central](http://vixcentral.com/)
 
