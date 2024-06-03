@@ -14,12 +14,6 @@ layout: default
 - [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
 - [SPX Gamma](https://www.spxgamma.com/)
 
-## TSLA
-
-- [TSLA Investor Discussions](https://teslamotorsclub.com/tmc/forums/tsla-investor-discussions.119/)
-- [TSLA Put/Call Ratio](https://www.barchart.com/stocks/quotes/TSLA/put-call-ratios)
-- [TSLA Short Interest](https://fintel.io/ss/us/tsla)
-
 ## TOOL
 
 - [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
@@ -28,3 +22,9 @@ layout: default
 - [Greek Flows](https://gflows.app/)
 - [SPX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRSPX)
 - [VIX Central](http://vixcentral.com/)
+
+## TSLA
+
+- [TSLA Investor Discussions](https://teslamotorsclub.com/tmc/forums/tsla-investor-discussions.119/)
+- [TSLA Put/Call Ratio](https://www.barchart.com/stocks/quotes/TSLA/put-call-ratios)
+- [TSLA Short Interest](https://fintel.io/ss/us/tsla)
