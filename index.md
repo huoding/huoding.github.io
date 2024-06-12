@@ -12,7 +12,6 @@ layout: default
 ## TOOL
 
 - [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
-- [CBOE Options Total Put/Call Ratio](https://stockcharts.com/sc3/ui/?s=%24CPC)
 - [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 - [Economic Calendar](https://www.investing.com/economic-calendar/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
