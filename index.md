@@ -17,5 +17,6 @@ layout: default
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
 - [Greek Flows](https://gflows.app/)
 - [SPX Gamma](https://www.spxgamma.com/)
+- [SPX Advance-Decline Line](https://stockcharts.com/sc3/ui/?s=%21ADLINESPX)
 - [SPX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRSPX)
 - [VIX Central](http://vixcentral.com/)
