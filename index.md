@@ -18,4 +18,5 @@ layout: default
 - [Greek Flows](https://gflows.app/)
 - [SPX Gamma](https://www.spxgamma.com/)
 - [SPX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRSPX)
+- [SPX McClellan Summation Index](https://stockcharts.com/sc3/ui/?s=%21MCSUMRSPX)
 - [VIX Central](http://vixcentral.com/)
