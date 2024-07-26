@@ -17,7 +17,7 @@ layout: default
 - [Economic Calendar](https://www.investing.com/economic-calendar/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
 - [Greek Flows](https://gflows.app/)
-- [NYSE McClellan Oscillator](https://www.mcoscillator.com/market_breadth_data/)
+- [Market Breadth Data](https://www.mcoscillator.com/market_breadth_data/)
 - [SPX Gamma](https://www.spxgamma.com/)
 - [SPX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRSPX)
 - [SPX McClellan Summation Index](https://stockcharts.com/sc3/ui/?s=%21MCSUMRSPX)
