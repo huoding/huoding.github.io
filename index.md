@@ -11,14 +11,11 @@ layout: default
 
 ## TOOL
 
-- [0 DTE S&P 500 Options Volatility Tracker](https://0dtespx.com/)
+- [Breadth Data](https://www.mcoscillator.com/market_breadth_data/)
 - [CBOE Put/Call Ratio](https://stockcharts.com/sc3/ui/?s=%21PCRATCBO)
 - [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 - [Economic Calendar](https://www.investing.com/economic-calendar/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
-- [Greek Flows](https://gflows.app/)
-- [Market Breadth Data](https://www.mcoscillator.com/market_breadth_data/)
-- [SPX Gamma](https://www.spxgamma.com/)
+- [NDX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRNDX)
 - [SPX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRSPX)
-- [SPX McClellan Summation Index](https://stockcharts.com/sc3/ui/?s=%21MCSUMRSPX)
 - [VIX Central](http://vixcentral.com/)
