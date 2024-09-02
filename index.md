@@ -15,7 +15,6 @@ layout: default
 - [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 - [Economic Calendar](https://www.investing.com/economic-calendar/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
-- [NDX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRNDX)
 - [SPX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRSPX)
 - [SPX Percent of Stocks Above MA20](https://stockcharts.com/sc3/ui/?s=%24SPXA20R)
 - [SPX Percent of Stocks Above MA50](https://stockcharts.com/sc3/ui/?s=%24SPXA50R)
