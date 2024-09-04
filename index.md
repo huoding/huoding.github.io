@@ -20,4 +20,5 @@ layout: default
 - [SPX Percent of Stocks Above MA50](https://stockcharts.com/sc3/ui/?s=%24SPXA50R)
 - [SPX Percent of Stocks Above MA100](https://stockcharts.com/sc3/ui/?s=%24SPXA100R)
 - [SPX Percent of Stocks Above MA200](https://stockcharts.com/sc3/ui/?s=%24SPXA200R)
+- [SPX Seasonality](https://stockcharts.com/freecharts/seasonality.php?symbol=%24SPX)
 - [VIX Central](http://vixcentral.com/)
