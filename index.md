@@ -5,6 +5,7 @@ layout: default
 ## NEWS
 
 - [Bloomberg](https://www.bloomberg.com/)
+- [CNBC](https://www.cnbc.com/)
 - [Financial Times](https://www.ft.com/)
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
