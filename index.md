@@ -4,13 +4,14 @@ layout: default
 
 ## NEWS
 
+- [Associated Press News](https://apnews.com/)
 - [Bloomberg](https://www.bloomberg.com/)
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
 
 ## TOOL
 
-- [0 DTE S&amp;P 500 options volatility tracker](https://0dtespx.com/)
+- [0 DTE S&amp;P 500 Options Volatility Tracker](https://0dtespx.com/)
 - [CBOE Put/Call Ratio](https://stockcharts.com/sc3/ui/?s=%21PCRATCBO)
 - [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 - [Economic Calendar](https://www.investing.com/economic-calendar/)
