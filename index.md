@@ -4,7 +4,6 @@ layout: default
 
 ## NEWS
 
-- [Associated Press News](https://apnews.com/)
 - [Bloomberg](https://www.bloomberg.com/)
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
