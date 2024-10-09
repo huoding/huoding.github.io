@@ -10,8 +10,9 @@ layout: default
 
 ## TOOL
 
-- [CBOE Put/Call Ratio](https://stockcharts.com/sc3/ui/?s=%21PCRATCBO)
+- [CBOE Options Total Put/Call Ratio](https://stockcharts.com/sc3/ui/?s=%21PCRATCBO)
 - [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
+- [COT Reports with Interactive Charts](https://www.tradingster.com/cot)
 - [Economic Calendar](https://www.investing.com/economic-calendar/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
 - [SPX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRSPX)
