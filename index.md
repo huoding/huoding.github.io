@@ -14,6 +14,7 @@ layout: default
 - [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
 - [Economic Calendar](https://www.investing.com/economic-calendar/)
 - [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
+- [Nations SkewDex (^SDEX)](https://finance.yahoo.com/quote/%5ESDEX/)
 - [Nations TailDex (^TDEX)](https://finance.yahoo.com/quote/%5ETDEX/)
 - [Nations VolDex (^VOLI)](https://finance.yahoo.com/quote/%5EVOLI/)
 - [SPX McClellan Osc](https://stockcharts.com/sc3/ui/?s=%21MCOSIRSPX)
