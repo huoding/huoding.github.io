@@ -8,7 +8,7 @@ layout: default
 - [Reuters](https://www.reuters.com/)
 - [The Wall Street Journal](https://www.wsj.com/)
 
-## TOOL
+## INDICATOR
 
 - [CBOE Put/Call Ratio](https://stockcharts.com/sc3/ui/?s=%21PCRATCBO)
 - [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
