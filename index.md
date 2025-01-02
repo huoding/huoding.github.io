@@ -22,4 +22,5 @@ layout: default
 - [SPX Percent Above MA200](https://stockcharts.com/sc3/ui/?s=%24SPXA200R)
 - [SPX Seasonality](https://stockcharts.com/freecharts/seasonality.php?symbol=%24SPX)
 - [VIX Central](http://vixcentral.com/)
-- [VIX:VXV](https://stockcharts.com/freecharts/gallery.html?$vix:$vxv)
+- [VIX:VXV](https://stockcharts.com/freecharts/gallery.html?$VIX:$VXV)
+- [VVIX:VIX](https://stockcharts.com/freecharts/gallery.html?$VVIX:$VIX)
